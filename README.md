@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi fellas 👋
 
 <!--
 **janito03/janito03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Zhana and I'm currently a Bachelor's student in Computer Science at FMI, Sofia!
